@@ -1,10 +1,10 @@
-== README
+# README
 
 Project created to play with Administrate[0], a Rails engine that helps you put together a super-flexible admin dashboard that i've just discovered thanks to @fixr and @SergioCC14.
 
 [0] https://administrate-docs.herokuapp.com/
 
-== LISTENME
+# LISTENME
 
 About the name of the project: https://www.youtube.com/watch?v=MHvZZwNNxdw
 
